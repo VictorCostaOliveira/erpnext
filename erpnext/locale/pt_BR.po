@@ -28,56 +28,56 @@ msgstr ""
 
 #: selling/doctype/quotation/quotation.js:76
 msgid " Address"
-msgstr ""
+msgstr "Endereço"
 
 #: accounts/report/item_wise_sales_register/item_wise_sales_register.py:597
 msgid " Amount"
-msgstr ""
+msgstr "Quantidade"
 
 #. Label of a Check field in DocType 'Inventory Dimension'
 #: stock/doctype/inventory_dimension/inventory_dimension.json
 msgctxt "Inventory Dimension"
 msgid " Is Child Table"
-msgstr ""
+msgstr "É Tabela Filha"
 
 #: accounts/report/tax_withholding_details/tax_withholding_details.py:181
 #: accounts/report/tds_computation_summary/tds_computation_summary.py:107
 #: selling/report/sales_analytics/sales_analytics.py:66
 msgid " Name"
-msgstr ""
+msgstr "Nome"
 
 #: public/js/bom_configurator/bom_configurator.bundle.js:108
 msgid " Qty"
-msgstr ""
+msgstr "Qtd"
 
 #: accounts/report/item_wise_sales_register/item_wise_sales_register.py:588
 msgid " Rate"
-msgstr ""
+msgstr "Taxa"
 
 #: public/js/bom_configurator/bom_configurator.bundle.js:116
 msgid " Raw Material"
-msgstr ""
+msgstr "Matéria-Prima"
 
 #: public/js/bom_configurator/bom_configurator.bundle.js:127
 #: public/js/bom_configurator/bom_configurator.bundle.js:157
 msgid " Sub Assembly"
-msgstr ""
+msgstr "Subconjunto"
 
 #: projects/doctype/project_update/project_update.py:110
 msgid " Summary"
-msgstr ""
+msgstr "Resumo"
 
 #: stock/doctype/item/item.py:235
 msgid "\"Customer Provided Item\" cannot be Purchase Item also"
-msgstr "&quot;Item Fornecido pelo Cliente&quot; não pode ser Item de Compra também"
+msgstr "\"Item Fornecido pelo Cliente\" não pode ser também um Item de Compra"
 
 #: stock/doctype/item/item.py:237
 msgid "\"Customer Provided Item\" cannot have Valuation Rate"
-msgstr "&quot;Item Fornecido pelo Cliente&quot; não pode ter Taxa de Avaliação"
+msgstr "\"Item Fornecido pelo Cliente\" não pode ter Taxa de Avaliação"
 
 #: stock/doctype/item/item.py:313
 msgid "\"Is Fixed Asset\" cannot be unchecked, as Asset record exists against the item"
-msgstr "\"É Ativo Fixo\" não pode ser desmarcado se já existe um registro de Ativo relacionado ao item"
+msgstr "\"É Ativo Fixo\" não pode ser desmarcado, pois já existe um registro de Ativo relacionado ao item"
 
 #. Description of the Onboarding Step 'Accounts Settings'
 #: accounts/onboarding_step/accounts_settings/accounts_settings.json
@@ -90,6 +90,13 @@ msgid ""
 " - Taxation preferences\n"
 " - Deferred accounting preferences\n"
 msgstr ""
+"# Configurações de Contas\n"
+"\n"
+"No ERPNext, os recursos de Contabilidade são configuráveis conforme as necessidades do seu negócio. As Configurações de Contas são o local para definir algumas das suas preferências contábeis, como:\n"
+"\n"
+" - Limite de Crédito e configurações de faturamento excedente\n"
+" - Preferências de Tributação\n"
+" - Preferências de contabilidade diferida\n"
 
 #. Description of the Onboarding Step 'Configure Account Settings'
 #: accounts/onboarding_step/configure_account_settings/configure_account_settings.json
